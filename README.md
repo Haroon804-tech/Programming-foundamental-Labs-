@@ -20,6 +20,15 @@ Language
 C++
 
 Purpose
+Lab-1 task as a EXAMPLE 
+.
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello World";
+    return 0;
+}
 
 This repository is created for learning, practicing, and submitting Programming Fundamentals lab tasks.
 
